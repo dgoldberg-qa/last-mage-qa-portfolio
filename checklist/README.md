@@ -13,6 +13,6 @@ The checklist includes:
 - Dungeon gameplay
 - Combat system
 - Reward system
-- Experince and progression
+- Experience and progression
 - Performance
 - Persistance

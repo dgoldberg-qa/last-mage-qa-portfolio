@@ -3,27 +3,31 @@
 ## Project information
 
 Project: Last Mage
+
 Version tested: 0.5.2046
+
 Platform: Android 15
+
 Device: Samsung Galaxy A16
+
 Testing type: Functional testing / Exploratory testing / Early access feedback
 
 ## Scope
 
 The following features were tested:
 
-Main menu
-Dungeon runs
-Character selection
-Inventory
-Equipment
-Spell  system
-Experience system
-Lexicon
-Advertisements
-Settings
-Pause / Resume behavior
-Performance
+- Main menu
+- Dungeon runs
+- Character selection
+- Inventory
+- Equipment
+- Spell  system
+- Experience system
+- Lexicon
+- Advertisements
+- Settings
+- Pause / Resume behavior
+- Performance
 
 ## Test artifacts
 
@@ -73,7 +77,7 @@ Questions were raised regarding:
 
 ## Overall assessment
 
-The tested build is generally stable anf all core gameplay  systems are functional
+The tested build is generally stable and all core gameplay  systems are functional
 Two reproducible bugs affecting gameplay and performance were identified.
 Several usability improvements were also suggested to improve accessibility, interface clarity, and overall player experience.
 Some gameplay mechanics require clarification from the developer before they can be classified as intended behavior or defects.
